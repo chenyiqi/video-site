@@ -1,0 +1,27 @@
+{
+  "name": "video-site",
+  "version": "1.0.0",
+  "description": "用户自己上传拍摄到的好玩的小视频",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenyiqi/video-site.git"
+  },
+  "author": "chenyiqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenyiqi/video-site/issues"
+  },
+  "homepage": "https://github.com/chenyiqi/video-site#readme",
+  "devDependencies": {
+    "connect": "^3.4.1",
+    "json": "^9.0.4",
+    "mongoose": "^4.5.10",
+    "parseurl": "^1.3.1",
+    "send": "^0.14.1",
+    "serve-static": "^1.11.1"
+  }
+}
